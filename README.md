@@ -24,4 +24,19 @@ The application provides the user with:
   - HTML
   - SASS
   - JS (API, OOP, AJAX)
+
+  ### Getting Started
+  To start the project, it is necessary to download the files from the github, after that you must install npm and script in console.
+  `Instalation`
+  == npm install ==
+  == npm start ==
+
+  ### References
+  You can see the documentation for the api here, where you can find all the recipes you can search: [Forkify API v2 Documentation](https://forkify-api.herokuapp.com/v2)
+  I made the application with the help of Jonas Schmedtmann in the JavaScript course: [JavaScript course](https://www.udemy.com/course/the-complete-javascript-course)
+
+  ### API References
+  - This function calls the recipes entered by the user
+    == export const loadSearchResults = async function (query) {...}; ==
+  
     
